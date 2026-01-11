@@ -1,128 +1,47 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=MD+RABBI+ISLAM;Django+Backend+Developer;→+DevOps+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
-
-<p align="center">
-  <a href="mailto:rabbiprimon00000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_EMAIL-rabbiprimon00000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/md-rabbi-islam-747770231/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/RabbiPrimon" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.facebook.com/rabbi.primon" target="_blank">
-    <img src="https://img.shields.io/badge/👤_FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%7C+Python+Specialist;DevOps+Aspirant;Problem+Solver" alt="Typing SVG" />
 </div>
-
----
 
 <div align="center">
   
-## **🚀 Code → Infrastructure Transition**
-**Building robust backends today, orchestrating scalable infrastructure tomorrow**
+### `Building robust systems today, scaling infrastructure tomorrow`
+  
+[![Email](https://img.shields.io/badge/📧-rabbiprimon00000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabbiprimon00000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rabbi-islam-747770231/)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiPrimon)
+[![Facebook](https://img.shields.io/badge/👤-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rabbi.primon)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://crsyndicate.info)
 
 </div>
 
 ---
 
-## 🧠 **Profile Snapshot**
+## 🎯 About Me
 
 ```python
-# Backend to DevOps Transition Matrix
-class DeveloperProfile:
+class BackendDev:
     def __init__(self):
         self.name = "Md Rabbi Islam (Primon)"
-        self.current_role = "Django Backend Developer"
-        self.target_role = "DevOps Engineer"
+        self.title = "Django Backend Developer → DevOps"
         self.location = "Dhaka, Bangladesh"
-        
-    @property
-    def tech_evolution(self):
+        self.education = "B.Sc in Computer Science & Engineering"
+        self.philosophy = "Code with purpose, deploy with confidence"
+    
+    def current_focus(self):
         return {
-            "current_stack": ["Django", "DRF", "PostgreSQL", "Redis"],
-            "learning_stack": ["Docker", "AWS", "K8s", "Terraform"],
-            "future_stack": ["Cloud Native", "SRE", "Infra as Code"]
+            "primary": "Building production-ready Django backends",
+            "projects": ["AgroChain-BD", "LuxShop E-commerce"],
+            "learning_path": "Transitioning to DevOps & Cloud Architecture"
         }
     
-    def mission(self):
-        return "Bridge the gap between application logic and infrastructure resilience"
+    def career_vision(self):
+        return "Mastering scalable infrastructure to complement backend expertise"
 
-profile = DeveloperProfile()
-
+dev = BackendDev()
 graph LR
-    A[Strong Backend<br>Foundation] --> B[Containerization<br>& CI/CD]
-    B --> C[Cloud Infrastructure<br>& Orchestration]
-    C --> D[Infrastructure<br>as Code]
-    D --> E[Site Reliability<br>Engineering]
+    A[Current:<br>Django Backend Dev] --> B[Learning:<br>Docker & CI/CD]
+    B --> C[Building:<br>Cloud Infrastructure]
+    C --> D[Target:<br>DevOps Engineer]
     
-    style A fill:#10B981
-    style E fill:#3B82F6
-
-database:
-  engine: PostgreSQL
-  features:
-    - Complex Relationships
-    - Full-text Search
-    - Data Analytics
-    
-architecture:
-  pattern: Monolithic → Microservices-ready
-  deployment: Nginx + Gunicorn
-  caching: Redis
-  async_tasks: Celery
-  
-security:
-  - Multi-role RBAC
-  - JWT Authentication
-  - Data Validation
-
-</td>
-<td width="50%">
-
-core_functionality:
-  - Complete Shopping Cart
-  - Order Processing Workflow
-  - Payment Gateway Integration
-  - Inventory Management
-  
-technical_stack:
-  backend: Django + DRF
-  database: PostgreSQL
-  frontend: Bootstrap 5 + JavaScript
-  payments: Stripe API
-  
-devops_features:
-  - Production-ready Deployment
-  - Email Notifications (Celery)
-  - Admin Dashboard Analytics
-  - Performance Monitoring
-
-</td>
-
-# The Evolution of Deployment Thinking
-def deploy_application_2023():
-    """Traditional Django Deployment"""
-    ssh_to_server()
-    git_pull()
-    pip_install_requirements()
-    run_migrations()
-    restart_gunicorn()
-    pray_it_works()
-
-def deploy_application_2024():
-    """Modern DevOps Approach"""
-    git_push()  # Triggers CI/CD pipeline
-    # 1. Automated tests run
-    # 2. Docker image built & scanned
-    # 3. Image pushed to registry
-    # 4. K8s deployment updated
-    # 5. Health checks performed
-    # 6. Canary deployment if configured
-    # 7. Monitoring alerts configured
-    return "Deployed with confidence 🚀"
-</td>
+    style A fill:#22c55e
+    style D fill:#3b82f6
