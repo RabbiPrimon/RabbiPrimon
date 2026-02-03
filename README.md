@@ -1,29 +1,23 @@
 ```python
-import datetime
-
 class BackendDev:
     def __init__(self):
         self.name = "Md Rabbi Islam (Primon)"
         self.title = "Django Backend Developer → DevOps"
         self.location = "Dhaka, Bangladesh"
-        self.education = "B.Sc in Computer Science & Engineering"
         self.philosophy = "Code with purpose, deploy with confidence"
     
     def current_focus(self):
         return {
             "primary": "Building production-ready Django backends",
-            "projects": ["AgroChain-BD", "LuxShop E-commerce"],
+            "projects": ["AgroChain-BD", "LuxShop E-commerce", "MarketLink"],
             "learning_path": "Transitioning to DevOps & Cloud Architecture"
         }
-    
-    def career_vision(self):
-        return "Mastering scalable infrastructure to complement backend expertise"
 
 dev = BackendDev()
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%7C+Python+Specialist;DevOps+Aspirant;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+%7C+Python+Specialist;DevOps+Aspirant" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -36,7 +30,7 @@ dev = BackendDev()
 [![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabbiPrimon)
 [![HackerRank](https://img.shields.io/badge/⚡-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rabbiprimon00000)
 [![LeetCode](https://img.shields.io/badge/🏆-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rabbiprimon/)
-[![Facebook](https://img.shields.io/badge/👤-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rabbi.primon)
+[![Phone](https://img.shields.io/badge/📞-+8801644358765-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801644358765)
 
 </div>
 
@@ -44,19 +38,11 @@ dev = BackendDev()
 
 ## 🎯 About Me
 
-```mermaid
-graph LR
-    A[Current:<br>Django Backend Dev] --> B[Learning:<br>Docker & CI/CD]
-    B --> C[Building:<br>Cloud Infrastructure]
-    C --> D[Target:<br>DevOps Engineer]
-    
-    style A fill:#22c55e
-    style D fill:#3b82f6
-```
+**Django Backend Developer** passionate about building scalable applications and REST APIs. Currently expanding my skills in DevOps to master deployment, containerization, and cloud infrastructure.
 
 ## 🛠️ Tech Stack
 
-### **Backend Development**
+### **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -64,14 +50,13 @@ graph LR
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-FF6C37?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-### **Frontend & Others**
+### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,55 +71,60 @@ graph LR
 
 </div>
 
-## 🏆 Problem Solving Profiles
-
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rabbiprimon?theme=dark&font=Inter&ext=activity)](https://leetcode.com/u/rabbiprimon/)
-[![HackerRank](https://github-readme-streak-stats.herokuapp.com/?user=RabbiPrimon&theme=dark&hide_border=true&background=0D1117)](https://www.hackerrank.com/profile/rabbiprimon00000)
-
-</div>
-
 ## 📂 Featured Projects
 
-### **AgroChain-BD** - *Full-stack Agricultural E-commerce*
-> Django, PostgreSQL, Redis, Celery, Docker
-- Supply chain management for agricultural products
-- Real-time inventory tracking & farmer-marketplace
-- Dockerized microservices architecture
+### **AgroChain BD** 
+*Agricultural Price Transparency System*
+> Django, PostgreSQL, HTML/CSS
+- Supply chain tracking from farmers to consumers
+- Role-based authentication & dashboard
+- Relational database design
 
-### **LuxShop E-commerce** - *Premium Online Store*
-> Django, DRF, JWT, PostgreSQL, Bootstrap
-- Complete e-commerce solution with admin dashboard
-- Payment integration & order management
-- RESTful API with comprehensive documentation
+### **LuxShop** 
+*E-commerce Platform*
+> Django, PostgreSQL, Bootstrap, JavaScript
+- Complete shopping cart & payment integration
+- Admin dashboard for inventory management
+- Mobile-responsive design
+
+### **MarketLink** 
+*Multi-Vendor Marketplace*
+> Django, DRF, Redis, Celery
+- REST API backend for repair services
+- Redis-based concurrency control
+- Celery background processing
 
 ## 🎓 Education & Certifications
 
-- **B.Sc in Computer Science & Engineering** - Completed
-- **Python & Django Specialization** - Self-taught through projects
-- **DevOps & Cloud Computing** - Currently pursuing practical experience
+- **B.Sc in Computer Science & Engineering** - Hamdard University Bangladesh
+- **IT Specialist in Python** - Certiport (Pearson VUE)
+- **Web Development with Python** - NSDA Certified
 
-## 💡 Currently Learning
+## 💼 Experience
 
-- Containerization with Docker & Kubernetes
-- CI/CD Pipeline implementation
-- AWS Cloud Services
-- Microservices architecture
-- System Design principles
+### **Research Assistant**
+**Bangladesh Poribeshbid Society** (2022-2024)
+- ICT support for organizational programs
+- Database maintenance & system updates
+
+### **Vice President, CSE Club**
+**Hamdard University Bangladesh** (2022-2024)
+- Led technical workshops and events
+
+## 🌐 Languages
+- **Bengali:** Native
+- **English:** Proficient (IELTS 6.0)
 
 ## 📫 Let's Connect
-
-- **Portfolio**: [rabbi.crsyndicate.info](https://rabbi.crsyndicate.info)
-- **Email**: [rabbiprimon00000@gmail.com](mailto:rabbiprimon00000@gmail.com)
-- **LinkedIn**: [Md Rabbi Islam](https://linkedin.com/in/md-rabbi-islam-747770231/)
-- **Availability**: Open to backend development roles and DevOps opportunities
+- **Portfolio:** [rabbi.crsyndicate.info](https://rabbi.crsyndicate.info)
+- **Email:** [rabbiprimon00000@gmail.com](mailto:rabbiprimon00000@gmail.com)
+- **LinkedIn:** [Md Rabbi Islam](https://linkedin.com/in/md-rabbi-islam-747770231/)
 
 ---
 
 <div align="center">
   
-*"Transforming complex problems into elegant solutions, one line of code at a time."*
+*"Building solutions that scale"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RabbiPrimon&color=blue&style=flat-square)
 
