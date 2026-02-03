@@ -111,7 +111,7 @@ graph LR
 
 ## 🎓 Education & Certifications
 
-- **B.Sc in Computer Science & Engineering** - Ongoing
+- **B.Sc in Computer Science & Engineering** - Completed
 - **Python & Django Specialization** - Self-taught through projects
 - **DevOps & Cloud Computing** - Currently pursuing practical experience
 
