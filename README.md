@@ -52,12 +52,15 @@ dev = BackendDev()
 ![Django REST](https://img.shields.io/badge/-Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -90,7 +93,7 @@ dev = BackendDev()
 ### **MarketLink** | *Multi-Vendor Marketplace API*
 > Django REST Framework, Redis, Celery • REST API with concurrency control
 - **Core Features**: Vendor APIs, order management system, real-time notifications
-- **Tech Stack**: Django REST Framework, Redis caching, WebSocket integration
+- **Tech Stack**: Django REST Framework, Redis caching, Celery workers, WebSocket integration
 
 ## 🎓 Education & Certifications
 
