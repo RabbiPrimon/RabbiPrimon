@@ -66,7 +66,7 @@ Django Backend Developer building scalable applications with Python. Expanding i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbiPrimon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rabbiprimon?theme=dark&font=Inter&ext=activity)](https://leetcode.com/u/rabbiprimon/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rabbiprimon00000)
+
 
 </div>
 
