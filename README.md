@@ -95,14 +95,45 @@ dev = BackendDev()
 - **Core Features**: Vendor APIs, order management system, real-time notifications
 - **Tech Stack**: Django REST Framework, Redis caching, Celery workers, WebSocket integration
 
-## 🎓 Education & Certifications
+## 🎓 Academic & Professional Credentials
 
 <div align="center">
 
-| **Degree** | **Certifications** |
-| :--- | :--- |
-| **B.Sc in Computer Science & Engineering**<br>Hamdard University Bangladesh | **IT Specialist in Python**<br>Certiport Certified |
-| | **Web Development with Python**<br>NSDA Certified |
+### **University Education**
+<div style="background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%); padding: 20px; border-radius: 12px; border: 1px solid #22D3EE30; margin: 15px 0;">
+  <h3 style="color: #22D3EE; margin-top: 0;">🎓 Bachelor of Science in Computer Science & Engineering</h3>
+  <p style="color: #FFFFFF; font-size: 1.1em; margin: 10px 0;">
+    <strong>Hamdard University Bangladesh</strong><br>
+    <span style="color: #CCCCCC;">Comprehensive curriculum covering algorithms, data structures, software engineering,<br>database systems, computer networks, and system architecture</span>
+  </p>
+</div>
+
+### **Technical Certifications**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+
+<div style="background: linear-gradient(135deg, #1a2b3c 0%, #2d4a6e 100%); padding: 18px; border-radius: 10px; border-left: 4px solid #3776AB; width: 300px; text-align: left;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="background: #3776AB; color: white; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold;">P</div>
+    <div>
+      <h4 style="color: white; margin: 0; font-size: 1.1em;">Certified IT Specialist</h4>
+      <p style="color: #CCCCCC; margin: 5px 0 0 0; font-size: 0.9em;">Python Programming · Certiport</p>
+    </div>
+  </div>
+  <p style="color: #AAAAAA; font-size: 0.9em; margin: 12px 0 0 0;">Validated expertise in Python programming fundamentals, data structures, and application development</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #1a3c2b 0%, #2d6e4a 100%); padding: 18px; border-radius: 10px; border-left: 4px solid #092E20; width: 300px; text-align: left;">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <div style="background: #092E20; color: white; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold;">W</div>
+    <div>
+      <h4 style="color: white; margin: 0; font-size: 1.1em;">Web Development with Python</h4>
+      <p style="color: #CCCCCC; margin: 5px 0 0 0; font-size: 0.9em;">Full Stack Development · NSDA</p>
+    </div>
+  </div>
+  <p style="color: #AAAAAA; font-size: 0.9em; margin: 12px 0 0 0;">Comprehensive training in Django framework, database design, and web application architecture</p>
+</div>
+
+</div>
 
 </div>
 
