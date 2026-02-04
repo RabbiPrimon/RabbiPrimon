@@ -99,5 +99,4 @@ Django Backend Developer building scalable applications with Python. Expanding i
 *"Build solutions that scale"*
 
 </div>
-```
 
